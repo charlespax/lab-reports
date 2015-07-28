@@ -1,0 +1,42 @@
+OUTPUTS=$(shell ls | grep ".tex$$" | sed "s/.tex/.dvi/")
+PDFS=$(shell ls | grep ".tex$$" | sed "s/.tex/.pdf/")
+LATEX=/usr/athena/bin/latex
+CLASSNAME=6115report.cls
+PACKAGE=/mit/6.115/www/miscfiles/$(CLASSNAME)
+
+.SUFFIXES:
+
+all:	$(OUTPUTS) $(CLASSNAME)
+
+%.dvi: %.tex $(CLASSNAME)
+	$(LATEX) $< </dev/null &&\
+	$(LATEX) $< </dev/null || rm -f $@
+
+%.ps: %.dvi
+	dvips -Ppdf -G0 $< < /dev/null
+
+%.pdf: 	%.ps
+	gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=$@ $< < /dev/null
+
+# This is a hack to get it to print
+%.Print: 
+	dvips -t letter $*.dvi
+
+$(CLASSNAME): /mit/6.115 $(PACKAGE)
+	@ln -sf $(PACKAGE) ./$(CLASSNAME)
+
+/mit/6.115:
+	@/bin/athena/attach 6.115
+
+.PHONY: clean cleaner wipeout pdf all
+
+clean: 
+	rm -f *.bbl *.blg *.log *.lof *.toc *.dvi *.aux semantic.cache*
+
+cleaner: clean
+	rm -f *.pdf *.ps *~
+
+wipeout: cleaner
+	rm -f  *.eps *.bak *.fig
+
+pdf:	$(PDFS)

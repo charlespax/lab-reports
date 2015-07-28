@@ -1,0 +1,72 @@
+This directory should contain the folowing files:
+
+File Name	Description
+=========	===========
+COPYING		Software license terms
+Makefile	Instructions for GNU Make
+README		This file
+report.m	GNU Octave file
+report.tex	LaTeX file
+
+
+
+Makefile
+==========
+Comments are denoted by a hash character (#) at the beginning of a line.
+
+report.m
+==========
+Comments are denoted by a percent character (%) at the beginning of a line.
+
+report.tex
+==========
+Comments are denoted by a percent character (%) at the beginning of a line.
+
+Questions:
+How do I make an equation?
+
+Q: How do I make an equation?
+A: To create an inline text equation you simply surround the code you wish to use in your equation with dollar sign ($).
+
+Example:
+--------
+The equation $F =  m a$ can be rewritten as $m = \frac{F}{a}$.\
+--------
+
+To create a numbered equation in your document you must use the "equation" environment.
+
+Example:
+--------
+One of the most important equations in introductory physics is certainly
+\begin{equation}
+F = m a
+\end{euqation}
+--------
+
+To reference a numbered equation use the "label" tag.
+
+Example:
+--------
+Kinetic energy, given by equation \ref{eq:K}, is often called "the energy of motion."
+\begin{equation}\label{eq:K}
+K = \frac{1}{2} m v^2
+\end{equation}
+--------
+
+Environment Tags
+================
+Tag		Description		Usage
+--------	--------		--------
+^		Superscript		E = m c^2, 2^3 = 8
+_		Subscript		F_1 + F_2 + F_3 = 0
+\cdot		Multiplication		Kg \cdot m
+\frac{}{}	Fraction		v = \frac{d}{t}
+\mathrm{}	
+\pm		Plus/minus symbol	1 = (\pm 1)^2
+\sqrt{}		Square root		c = \sqrt{a^2 + b^2}
+
+
+
+
+
+

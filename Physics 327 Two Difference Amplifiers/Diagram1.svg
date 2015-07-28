@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10cm"
+   height="12cm"
+   viewBox="5 4 10 12"
+   id="svg1368"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docname="Diagram1.svg"
+   sodipodi:docbase="/home/charles/Desktop/Physics 327 Two Difference Amplifiers">
+  <metadata
+     id="metadata1409">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1407" />
+  <sodipodi:namedview
+     inkscape:window-height="587"
+     inkscape:window-width="872"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.94779632"
+     inkscape:cx="177.16536"
+     inkscape:cy="210.38275"
+     inkscape:window-x="15"
+     inkscape:window-y="97"
+     inkscape:current-layer="svg1368" />
+  <polyline
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.08"
+     points="7.5,5 7.5,6.5 7,6.66667 8,7 7,7.33333 8,7.66667 7,8 8,8.33333 7.5,8.5 7.5,10 "
+     id="polyline1370"
+     transform="matrix(0.368213,0,0,0.349643,3.35094,3.225771)" />
+  <polyline
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.08"
+     points="7.5,10 7.5,11.5 7,11.6667 8,12 7,12.3333 8,12.6667 7,13 8,13.3333 7.5,13.5 7.5,15 "
+     id="polyline1372"
+     transform="matrix(0.368213,0,0,0.349643,3.35094,3.225771)" />
+  <polyline
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.08"
+     points="12.5,10 12.5,11.5 12,11.6667 13,12 12,12.3333 13,12.6667 12,13 13,13.3333 12.5,13.5 12.5,15 "
+     id="polyline1374"
+     transform="matrix(0.368213,0,0,0.349643,3.35094,3.225771)" />
+  <polyline
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.08"
+     points="12.5,5 12.5,6.5 12,6.66667 13,7 12,7.33333 13,7.66667 12,8 13,8.33333 12.5,8.5 12.5,10 "
+     id="polyline1376"
+     transform="matrix(0.368213,0,0,0.349643,3.35094,3.225771)" />
+  <line
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.02870462"
+     x1="6.112536"
+     y1="6.7222009"
+     x2="6.664855"
+     y2="6.7222009"
+     id="line1378" />
+  <line
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.02870462"
+     x1="7.4012809"
+     y1="6.7222009"
+     x2="7.9535999"
+     y2="6.7222009"
+     id="line1380" />
+  <line
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.02870462"
+     x1="6.112536"
+     y1="8.4704161"
+     x2="7.9535999"
+     y2="8.4704161"
+     id="line1382" />
+  <line
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.02870462"
+     x1="6.112536"
+     y1="4.9739857"
+     x2="7.9535999"
+     y2="4.9739857"
+     id="line1384" />
+  <text
+     style="font-size:0.28704622px;font-style:normal;font-weight:normal;text-anchor:end;fill:#000000;font-family:sans"
+     x="6.4946198"
+     y="7.2572093"
+     id="text1386"
+     transform="scale(1.026212,0.974458)">V1</text>
+  <text
+     style="font-size:0.28704622px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:sans"
+     x="7.212235"
+     y="7.2572093"
+     id="text1388"
+     transform="scale(1.026212,0.974458)">V2</text>
+  <text
+     style="font-size:0.28704622px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans"
+     x="5.4181962"
+     y="6.1807861"
+     id="text1390"
+     transform="scale(1.026212,0.974458)">RB1</text>
+  <text
+     style="font-size:0.28704622px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans"
+     x="8.2886581"
+     y="6.1807861"
+     id="text1392"
+     transform="scale(1.026212,0.974458)">RB3</text>
+  <text
+     style="font-size:0.28704622px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans"
+     x="5.4181962"
+     y="7.9748249"
+     id="text1394"
+     transform="scale(1.026212,0.974458)">RB2</text>
+  <text
+     style="font-size:0.28704622px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans"
+     x="8.2886581"
+     y="7.9748249"
+     id="text1396"
+     transform="scale(1.026212,0.974458)">RB4</text>
+  <line
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.02870462"
+     x1="7.0330682"
+     y1="8.4704161"
+     x2="7.0330682"
+     y2="8.645237"
+     id="line1398" />
+  <line
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.02870462"
+     x1="6.664855"
+     y1="8.645237"
+     x2="7.4012809"
+     y2="8.645237"
+     id="line1400" />
+  <line
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.02870462"
+     x1="6.7882066"
+     y1="8.7326479"
+     x2="7.2779293"
+     y2="8.7326479"
+     id="line1402" />
+  <line
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.02870462"
+     x1="6.9115577"
+     y1="8.8200588"
+     x2="7.1545782"
+     y2="8.8200588"
+     id="line1404" />
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="17cm" height="14cm" viewBox="-1 2 17 14">
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="7" y1="4.5" x2="7" y2="6.99951"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="12.4973" y1="7.99902" x2="15" y2="8"/>
+  <text style="fill: #000000; text-anchor:end; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="0.0141829" y="6.9948">V1</text>
+  <text style="fill: #000000; text-anchor:start; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="-0.682873" y="9.12617">V2</text>
+  <text style="fill: #000000; text-anchor:middle; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="3.4738" y="6.11091">R1</text>
+  <text style="fill: #000000; text-anchor:middle; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="8.32269" y="11.6464">R3</text>
+  <text style="fill: #000000; text-anchor:middle; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="3.38299" y="10.6263">R2</text>
+  <text style="fill: #000000; text-anchor:middle; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="9.37814" y="3.01974">R4</text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="7" y1="8.99854" x2="7.99951" y2="8.99854"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="7" y1="6.99951" x2="7.99951" y2="6.99951"/>
+  <polygon style="fill: #ffffff" points="7.99951,9.99805 7.99951,6 11.4978,7.99902 "/>
+  <polygon style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="7.99951,9.99805 7.99951,6 11.4978,7.99902 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="8.19941" y1="8.99854" x2="8.99902" y2="8.99854"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="8.59922" y1="9.39834" x2="8.59922" y2="8.59873"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="8.19941" y1="6.99951" x2="8.99902" y2="6.99951"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="11.4978" y1="7.99902" x2="12.4973" y2="7.99902"/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="6.5,9 6.5,10.5 6,10.6667 7,11 6,11.3333 7,11.6667 6,12 7,12.3333 6.5,12.5 6.5,14 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="6.5" y1="14.5" x2="6.5" y2="15"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="5.5" y1="15" x2="7.5" y2="15"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="5.835" y1="15.25" x2="7.165" y2="15.25"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="6.17" y1="15.5" x2="6.83" y2="15.5"/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="7,4.5 8.5,4.5 8.66667,4 9,5 9.33333,4 9.66667,5 10,4 10.3333,5 10.5,4.5 12,4.5 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="12,4.5 13.4973,4.5 13.4973,7.99902 12.4973,7.99902 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="0.95,7 2.45,7 2.61667,6.5 2.95,7.5 3.28333,6.5 3.61667,7.5 3.95,6.5 4.28333,7.5 4.45,7 5.95,7 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="0.85,9 2.35,9 2.51667,8.5 2.85,9.5 3.18333,8.5 3.51667,9.5 3.85,8.5 4.18333,9.5 4.35,9 5.85,9 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="6.5" y1="14.5" x2="6.5" y2="14"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="5.95" y1="7" x2="7" y2="6.99951"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="5.85" y1="9" x2="7" y2="8.99854"/>
+  <text style="fill: #000000; text-anchor:end; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="15.4699" y="8.85639">Vout</text>
+</svg>

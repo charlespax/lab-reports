@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="23cm" height="20cm" viewBox="-5 -3 23 20">
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="15.4971" y1="4.33198" x2="16.3809" y2="4.32297"/>
+  <text style="fill: #000000; text-anchor:end; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="-3.82013" y="-1.79411">V1</text>
+  <text style="fill: #000000; text-anchor:start; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="-4.36467" y="16.5626">V2</text>
+  <text style="fill: #000000; text-anchor:middle; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="4.06418" y="12.2197">R1</text>
+  <text style="fill: #000000; text-anchor:middle; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="10.883" y="-1.5737">kR2</text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="-3.33033" y1="15.6606" x2="-2.33082" y2="15.6606"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="-3.33033" y1="13.6616" x2="-2.33082" y2="13.6616"/>
+  <polygon style="fill: #ffffff" points="-2.33082,16.6601 -2.33082,12.6621 1.16747,14.6611 "/>
+  <polygon style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="-2.33082,16.6601 -2.33082,12.6621 1.16747,14.6611 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="-2.13092" y1="15.6606" x2="-1.33131" y2="15.6606"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="-1.73111" y1="16.0604" x2="-1.73111" y2="15.2608"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="-2.13092" y1="13.6616" x2="-1.33131" y2="13.6616"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="1.16747" y1="14.6611" x2="2.16698" y2="14.6611"/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="2.8,-0.4 2.8,1.1 2.3,1.26667 3.3,1.6 2.3,1.93333 3.3,2.26667 2.3,2.6 3.3,2.93333 2.8,3.1 2.8,4.6 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="15.9253" y1="14.6404" x2="15.9253" y2="15.1404"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="14.9253" y1="15.1404" x2="16.9253" y2="15.1404"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="15.2603" y1="15.3904" x2="16.5903" y2="15.3904"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="15.5953" y1="15.6404" x2="16.2553" y2="15.6404"/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="3.83995,14.6475 5.33995,14.6475 5.50662,14.1475 5.83995,15.1475 6.17328,14.1475 6.50662,15.1475 6.83995,14.1475 7.17328,15.1475 7.33995,14.6475 8.83995,14.6475 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="15.0556,-0.435355 15.4617,-0.435355 15.4617,4.33198 15.4971,4.33198 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="3.45,-0.4 4.95,-0.4 5.11667,-0.9 5.45,0.1 5.78333,-0.9 6.11667,0.1 6.45,-0.9 6.78333,0.1 6.95,-0.4 8.45,-0.4 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="10.0556,-0.435355 11.5556,-0.435355 11.7223,-0.935355 12.0556,0.064645 12.3889,-0.935355 12.7223,0.064645 13.0556,-0.935355 13.3889,0.064645 13.5556,-0.435355 15.0556,-0.435355 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="8.83995" y1="14.6475" x2="9.6402" y2="14.6441"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="2.82067" y1="14.6347" x2="3.83995" y2="14.6475"/>
+  <text style="fill: #000000; text-anchor:end; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="18.0199" y="5.45639">Vout</text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="-3.15582" y1="-1.39682" x2="-2.15631" y2="-1.39682"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="-3.15582" y1="0.602205" x2="-2.15631" y2="0.602205"/>
+  <polygon style="fill: #ffffff" points="-2.15631,-2.39633 -2.15631,1.60172 1.34198,-0.397307 "/>
+  <polygon style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="-2.15631,-2.39633 -2.15631,1.60172 1.34198,-0.397307 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="-1.95641" y1="-1.39682" x2="-1.1568" y2="-1.39682"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="-1.5566" y1="-1.79662" x2="-1.5566" y2="-0.997014"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="-1.95641" y1="0.602205" x2="-1.1568" y2="0.602205"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="1.34198" y1="-0.397307" x2="2.34149" y2="-0.397307"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="9.99982" y1="5.3315" x2="10.9993" y2="5.3315"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="9.99982" y1="3.33247" x2="10.9993" y2="3.33247"/>
+  <polygon style="fill: #ffffff" points="10.9993,6.33101 10.9993,2.33296 14.4976,4.33198 "/>
+  <polygon style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="10.9993,6.33101 10.9993,2.33296 14.4976,4.33198 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="11.1992" y1="5.3315" x2="11.9988" y2="5.3315"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="11.599" y1="5.7313" x2="11.599" y2="4.93169"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="11.1992" y1="3.33247" x2="11.9988" y2="3.33247"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="14.4976" y1="4.33198" x2="15.4971" y2="4.33198"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="2.3415" y1="-0.397309" x2="3.45" y2="-0.4"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="10.0556" y1="-0.435355" x2="9.99982" y2="3.33247"/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="2.82067,4.58474 2.82067,6.08474 2.32067,6.25141 3.32067,6.58474 2.32067,6.91807 3.32067,7.25141 2.32067,7.58474 3.32067,7.91807 2.82067,8.08474 2.82067,9.58474 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="2.82067,9.63474 2.82067,11.1347 2.32067,11.3014 3.32067,11.6347 2.32067,11.9681 3.32067,12.3014 2.32067,12.6347 3.32067,12.9681 2.82067,13.1347 2.82067,14.6347 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="-3.15582,0.602202 -4.25163,0.602202 -4.25163,4.6 2.8,4.6 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="-3.33033,13.6616 -4.76582,13.6616 -4.76582,9.71974 2.71418,9.71974 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="9.6402,14.6441 11.1402,14.6441 11.3069,14.1441 11.6402,15.1441 11.9735,14.1441 12.3069,15.1441 12.6402,14.1441 12.9735,15.1441 13.1402,14.6441 14.6402,14.6441 "/>
+  <text style="fill: #000000; text-anchor:middle; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="4.29418" y="2.33474">R1</text>
+  <text style="fill: #000000; text-anchor:middle; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="10.7692" y="16.3847">kR2</text>
+  <text style="fill: #000000; text-anchor:middle; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="5.61918" y="16.4847">R2</text>
+  <text style="fill: #000000; text-anchor:middle; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="6.14418" y="-1.16526">R2</text>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="2.16698,14.6612 2.80449,14.6612 2.80449,14.6347 2.82067,14.6347 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="14.6402,14.6441 14.9667,14.6441 14.9667,14.6404 15.9253,14.6404 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="8.45" y1="-0.4" x2="10.0556" y2="-0.435355"/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" points="9.6402,14.6441 9.62807,14.6441 9.62807,5.33149 9.99982,5.33149 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="-4.79691" y1="-1.4046" x2="-3.15582" y2="-1.39682"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.08; stroke: #000000" x1="-4.86762" y1="15.672" x2="-3.33033" y2="15.6607"/>
+  <text style="fill: #000000; text-anchor:middle; font-size: 0.8; font-family: sans; font-style: normal; font-weight: normal" x="4.46314" y="7.0756">R1/a</text>
+</svg>

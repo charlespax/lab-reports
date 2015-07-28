@@ -1,0 +1,9 @@
+%=========================================%
+%-->    Lab: Two Difference Amplifiers <--%
+%--> Author: Charles Edward Pax        <--%
+%-->   Date: Date 2006.03.08           <--%
+%=========================================%
+% NOTE: The README file contains much more detailed descriptions of all the commands you might need.
+%
+%
+

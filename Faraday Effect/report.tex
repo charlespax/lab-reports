@@ -1,0 +1,162 @@
+%===================================%
+%-->  Author: Charles Edward pax <--%
+%-->    Date: 2005.12.12         <--%
+%===================================%
+
+\documentclass[10pt,onecolumn]{article} % (onecolumn, twocolumn)
+\usepackage{graphics,color}
+
+\begin{document}
+
+\title{Faraday Effect}
+\date{\today}
+\author{Charles Edward Pax}
+
+\maketitle
+
+\abstract{A transparent substance is held within a magnetic field of variable magnitude, which is adjusted via the current traveling through two electromagnets. Polarized light traveling through this transparent substance will be rotated by some amount as a function of the magnetic field and the distance the light travels through the substance. This is known as the Faraday effect. The amount that light is rotated in a magnetic field of certain magnitude is dependent on the particular substance and the distance traveled through that substance. Each applicable substance has what is known as a Verdet constant that describes the substance's proportionality of rotation, which is given as the angle per unit length per unit magnetic field.}
+
+\section{Introduction}
+If any transparent solid or liquid is placed in a uniform magnetic field, and a beam of plane polarized light is passed through it in the direction paralled to the magnetic lines of force (through holes in the pole shoes of a strong electromagnet), it is found that the transmitted light is still plane polarized, but that the plane of polarization is rotated by an angle proportional to the field intensity. This ``optical rotation'' is called the Faraday effect and is often expressed by equation \ref{eq:Faraday}\begin{equation}\label{eq:Faraday}
+\Phi = V B D
+\end{equation}
+where $\Phi$ is the angle of rotation, $V$ is the Verdet constant, $B$ is the magnetic field strength, and $D$ is the distance light travels through the substance. In the Faraday effect the direction of the optical rotation, as viewed when looking into the beam, is reversed when the light traverses the substance opposite to the magnetic field direction; that is, the rotation can be reversed by either changing the field direction or the light direction\cite{Faraday}.
+
+The Faraday effect is also given in equation \ref{eq:Becquerel}, called Becquerel's equation
+\begin{equation}\label{eq:Becquerel}
+\Theta = -\frac{1}{2} D \frac{e}{m} \frac{\lambda}{c} \frac{\mathrm{d}n}{\mathrm{d} \lambda} B
+\end{equation}
+where $e$ is electron charge, $m$ is electron mass, $\lambda$ is the wavelength of light used, $c$ is the speed of light, d$n$/d$\lambda$ is called the {\em dispersion} or change in refractive index as a function of wavelength.
+
+The {\em Verdet constant} of the substance is then given by equation \ref{eq:Verdet}.
+\begin{equation}\label{eq:Verdet}
+V = \frac{\phi}{D B} = -\frac{1}{2} \frac{e}{m} \frac{\lambda}{c} \frac{\mathrm{d}n}{\mathrm{d} \lambda}
+\end{equation}
+
+\section{Apparatus}
+\begin{itemize}
+\item Electromagnetic (Atomic labs, 0028)
+\item Magnet power supply (Cencocat. \#79551, 50V-5A DC, 32 \& 140 V AC, RU \#00048664)
+\item Gaussmeter (RFL Industries)
+\item High Intensity Tungsten Filament Lamp
+\item Three interference filters
+\begin{itemize}
+\item 449.5 nm (blue)
+\item 549.0 nm (yellow)
+\item 650.0 nm (red)
+\end{itemize}
+\item Volt-ammeter (DC)
+\item Nicol prisims (2)
+\item Glass samples
+\begin{itemize}
+\item Flint (SF58)
+\item Kigre (M16)
+\end{itemize}
+\item Sample holder (PVC)
+\item HP 6235A Triple output power suply
+\item HP 34401 Multimeter
+\item Si photodiode detector.
+\end{itemize}
+
+\section{Data \& Analysis}
+\subsection{Source and Detector Familiarization}
+The magnetic field was first measured as a function of voltage without any filters or samples in order to demonstrate the linear relationship between the two. Figure \ref{fig:plot01-MField} shows these measured points with a hysterisis curve. The relationship is indeed linear with a data fit of $-0.05 + 0.50 x$.
+%%% Fig: plot01-MField %%%
+\begin{figure}
+\input{plot01-MField}
+\caption{Magnetic field as a function of voltage with no filter and no sample in the apparatus.}\label{fig:plot01-MField}
+\end{figure}
+
+The light intensity at the detector was measured as a function of polarization angle without any sample and zero magnet current for each of the three filters (see figure \ref{fig:plot02-ZeroCurrent}). The approximate maximum and minimum detector meter readings were found and recorded for each filter in table \ref{tab:MinMax}. This demonstraits that both voltage and light intensity are wave length dependent while degree of polarization is not. The detector and the polaroid material are suitable for the three selected wavelengths of light for the purpose of this experiment due to the reading being signifigantly greater than background readings. However, the detector is more efficient at shorter wave lengths\cite{Faraday}.
+%%% Fig: plot02-ZeroCurrent %%%
+\begin{figure}\label{fig:plot02-ZeroCurrent}
+\input{plot02-ZeroCurrent}
+\caption{Light intensity as a function of polarization degree in the absance of any sample.}
+\end{figure}
+%%% Fig: MinMax %%%
+\begin{figure}
+\begin{center}
+\begin{tabular}{|l|cc|cc|}
+\hline
+	& max (mV)	& Angle	(deg)	& min (mV)	& Angle (deg)\\
+\hline
+Blue	& 9		& 110		& 4		& 20\\
+Yellow	& 22		& 110		& 9.6		& 20\\
+Red	& 34.4		& 110		& 19.5		& 20\\
+\hline
+\end{tabular}
+\caption{Minimum and maximum values}\label{tab:MinMax}
+\end{center}
+\end{figure}
+
+
+%\hline
+The Faraday effect dependency on the magnetic field strength was measured for several magnet currents for both kigre (figure \ref{fig:plot03}) and flint (figure \ref{fig:plot04}). In the kigre it can be observed that when the current is increased from zero to 0.5 amps (110 mT) the wave form moves to the right and decreases in intensity. Further increasing the current to 1.0 amps (2.09 mT) shifts the wave form slightly more to the right, but increases the intensity. As the magnetic field strength increases the phase moves to the right while the intensity fluxuates. The same effect seems to happen in the case of flint, however it is not quite as noticable. Though the effect at each current may be difficult to see, we can see that there is a signifigant difference between zero current and 0.5 amps.
+%%% Fig: plot03 %%%
+\begin{figure}
+\input{plot03}
+\caption{Kigre phase shift at several magnetic field strengths using the yellow filter.}\label{fig:plot03}
+\end{figure}
+%%% Fig: plot04 %%%
+\begin{figure}
+\input{plot04}
+\caption{Flint phase shift at several magnetic field strengths using the yellow filter.}\label{fig:plot04}
+\end{figure}
+
+Taking the minimum values of the detector readings and plotting them against the magnetic field strength (figure \ref{fig:plot05}) shows that the minimum polarizing angle is linearly proportional to the field strength.
+%%% Fig: plot05 %%%
+\begin{figure}
+\input{plot05}
+\caption{Minimum analyzer angles for flint kigre and Glass as a function of magnetic field strength.}\label{fig:plot05}
+\end{figure}
+
+\subsection{Law of malus Verification}
+A bright light was placed approximatly two inches away from the filter to provide a high contrast of light levels and obtain accurate data while preventing the filter from being overheated. Detector voltage readings were taken under zero magnet current every 10 degrees over a range of 360 degrees for each filters and for both keiger and flint to test the cosine squared of the polarizer angle (cos$^2(\Theta)$ intensity behavior of the Law of Malus (equation \ref{eq:Malus}).
+\begin{equation}\label{eq:Malus}
+I = I_0 \mathrm{cos}^2 \Theta
+\end{equation}
+where $I$ is the intensity of light at the detector, $I_0$ is the maximum intensity of light at the detector, and $\Theta$ is the angle between polarizer and the final polarized light. We can see that $I$ will be maximized when $\Theta = 0$ or 180 degrees and minimized when $\Theta = 90$ or 270 degrees. Both maximums and minimums are 180 degrees apart showing that observations match predictions.
+
+%The chi squared values, given by equation \ref{eq:chi_squared}, are presented in table \ref{tab:chi_squared}.
+%\begin{equation}\label{eq:chi_squared}
+%\chi^2 = \sum \frac{\left(observed - expected\right)^2}{expected}
+%\end{equation}
+%\begin{figure}
+%\begin{center}
+%\begin{tabular}{|l|cccc|}
+%\hline
+%	& B field	& Blue	& Yellow	& Red\\
+%\hline
+%Kiger	& yes		& 	&	& \\
+%Kiger	& no		& 	&	& \\
+%\hline
+%Flint	& yes		& 	&	& \\
+%Flint	& no		& 	&	& \\
+%\hline
+%\end{tabular}
+%\end{center}
+%\caption{Chi squared values.}\label{tab:chi_squared}
+%\end{figure}
+
+\section{Verdet Constant}
+The Verdet constant, representing the rotation that light undergoes while traveling through a substance under a magnetic field, is expressed in equation \ref{eq:Verdet}. Knowing that the distance $D$ is constant, in order for $V$ to be constant as well $\Phi$ must be directly proportional to the magnetic field strength $H$. This is generally the case as see in figure \ref{fig:plot05}. To calculate the Vedet constant for kigre we multiply $\Phi$ by 60 to convert from degrees to arc minutes
+\begin{displaymath}
+V = \frac{\Phi}{H D} = \frac{\left(50 -30\right) 60\ \mathrm{arc seconds}}{1.04\ \mathrm{cm}\ 3090\ \mathrm{gauss}}\\
+= \frac{1200}{3201} = 0.375\ \frac{\mathrm{arc\ minutes}}{\mathrm{cm}\ \mathrm{gauss}}
+\end{displaymath}
+Since the relationship has been measured as slightly off linear the mean and standard deviation of the Verdet constant for kigre has been calculated and is given as
+\begin{displaymath}
+V = 0.35114 \pm 0.15223\ \frac{\mathrm{arc\ minutes}}{\mathrm{cm}\ \mathrm{gauss}}
+\end{displaymath}
+This is a rather high degree of error. The error is most likely due to a measurement resolution of only ten degrees. The fluxuations in the display of the magnet voltage also contribute to this error.
+
+\section{Conclusions}
+In this experiment we have observed a phase shift in the polarization of light traveling through kigre and flint. We have seen that this phase shift is proportional to the strength of the magnetic field surrounding each sample.
+
+The results of this experiment are overwhelmed with error and our results are not as precise as they should have been given the experimental circumstances. Our degree resolution was too large and our voltage measurements were too uncertain. However, the results coencide with the predictions of the Faraday effect by an appreciable amount.
+
+\begin{thebibliography}{9}
+\bibitem{Faraday} Rutgers Universiey, Physics 389, Experiments in Applied and Modern Physics, {\em The Faraday Effect}, 1996
+\end{thebibliography}
+
+\end{document}
